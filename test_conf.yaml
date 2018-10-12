@@ -1,0 +1,14 @@
+---
+eventHubConnectionProps:
+  tsTokenObtainUrl: "https://68ac3816-e6af-4cc2-9beb-06aa1f0944ac.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/token?grant_type=client_credentials"
+  tsIngestionUrl: "wss://gateway-predix-data-services.run.aws-usw02-pr.ice.predix.io/v1/stream/messages"
+  zoneId: "1e0702b7-12e9-4be7-832f-da7f10c4a087"
+  ingestClientId: "time-series-command-JV"
+  ingestClientSecret: "Gz8suT7Xbg5s5GWva7KQM9ucL8kWZ4NX"
+tagSources:
+- tagName: "HELLO_WORLD_TAG_2"
+  calculatedTagName: "CALCULATED_TAG_2"
+  filePath: "/Users/sergeykim/dev/labs/threadstoptester/tank25_0th_270415_15-14.csv"
+- tagName: "HELLO_WORLD_TAG"
+  calculatedTagName: "CALCULATED_TAG"
+  filePath: "/Users/sergeykim/dev/labs/threadstoptester/tank27_300th_041217_11-58.csv"

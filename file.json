@@ -1,0 +1,14 @@
+{
+  "tagSources": [
+    {
+      "tagName": "HELLO_WORLD_TAG_2",
+      "calculatedTagName": "CALCULATED_TAG_2",
+      "filePath": "/Users/sergeykim/dev/labs/threadstoptester/tank25_0th_270415_15-14.csv"
+    },
+    {
+      "tagName": "HELLO_WORLD_TAG",
+      "calculatedTagName": "CALCULATED_TAG",
+      "filePath": "/Users/sergeykim/dev/labs/threadstoptester/tank27_300th_041217_11-58.csv"
+    }
+  ]
+}

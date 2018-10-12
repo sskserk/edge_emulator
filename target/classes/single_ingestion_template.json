@@ -1,0 +1,11 @@
+{
+  "messageId": "%MESSAGE_ID%",
+  "body": [
+    {
+      "name": "%TAG_NAME%",
+      "datapoints": [
+        %DATA_POINTS%
+    ]
+    }
+  ]
+}
